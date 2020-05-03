@@ -1,4 +1,4 @@
-# Python stuff
+# Description of files here within
 ITS.py -- Inverse Transform Sampling for random samples from arbitrary probability density functions.
 IFSstructures.py -- Iterated Function Systems that describe fractals with affine transforms.
 IFSfractals.ipynb -- python notebook demonstrating how to create fractals with IFS and ITS.
