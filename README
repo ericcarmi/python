@@ -1,6 +1,8 @@
-IFS.py -- Iterated Function Systems for generating fractals.
-ITS.py -- Inverse Transform Sampling for random samples from arbitrary probability desntiy functions.
+ITS.py -- Inverse Transform Sampling for random samples from arbitrary probability density functions.
+IFSstructures.py -- Iterated Function Systems that describe fractals with affine transforms.
+IFSfractals.ipynb -- python notebook demonstrating how to create fractals with IFS and ITS.
 
-dspfunx.py -- dsp functions that I use a lot
-compressor.py -- dynamic compressor
+dspfunx.py -- functions and commonly used imports for audio dsp.
+compressor.py -- dynamic compressor with a method I came up with using a Gaussian curve for the gain function.
 
+RSAcrypto.py -- example of RSA algorithm (not using big ints)
