@@ -1,7 +1,6 @@
 IFS.py -- Iterated Function Systems for generating fractals.
 ITS.py -- Inverse Transform Sampling for random samples from arbitrary probability desntiy functions.
 
-dspfunx.py -- dsp functions for testing
+dspfunx.py -- dsp functions that I use a lot
 compressor.py -- dynamic compressor
 
-kalmanCUS.py -- implementation of a complex unscented Kalman filter.
